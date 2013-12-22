@@ -1,7 +1,7 @@
 {
-  "name": "vital-linux-net-tcp",
-  "repo": "nomilous/vital-linux-net-tcp",
-  "description": "vital - linux network tcp counters",
+  "name": "linux-tcp-stats",
+  "repo": "nomilous/linux-tcp-stats",
+  "description": "vital - linux network tcp status table",
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {},
@@ -10,5 +10,8 @@
   "main": "index.js",
   "scripts": [
     "index.js"
-  ]
+  ],
+  "inject": {
+    "alias": "tcpStats"
+  }
 }
