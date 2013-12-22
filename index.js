@@ -1,1 +1,5 @@
-module.exports = 'tcp'
+module.exports = function() {
+
+    return 'tcp stats'
+
+};
