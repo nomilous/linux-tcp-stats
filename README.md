@@ -1,4 +1,5 @@
-ubuntu-net-tcp
-==============
+vital-linux-net-tcp
+===================
 
-ubuntu network tcp counters
+[vital](https://github.com/nomilous/vital) - linux network tcp counters
+
