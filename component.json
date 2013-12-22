@@ -1,7 +1,7 @@
 {
-  "name": "ubuntu-net-tcp",
-  "repo": "nomilous/ubuntu-net-tcp",
-  "description": "ubuntu network tcp counters",
+  "name": "vital-linux-net-tcp",
+  "repo": "nomilous/vital-linux-net-tcp",
+  "description": "vital - linux network tcp counters",
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {},
